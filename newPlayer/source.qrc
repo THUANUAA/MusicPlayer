@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ICON/last.png</file>
+        <file>ICON/list.png</file>
+        <file>ICON/next.png</file>
+        <file>ICON/start.png</file>
+        <file>ICON/stop.png</file>
+        <file>ICON/volum.png</file>
+        <file>ICON/Random.png</file>
+        <file>ICON/Loop.png</file>
+    </qresource>
+</RCC>
